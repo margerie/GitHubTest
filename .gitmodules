@@ -1,0 +1,3 @@
+[submodule "TestFolder"]
+	path = TestFolder
+	url = https://github.com/margerie/GitHubTest.git
